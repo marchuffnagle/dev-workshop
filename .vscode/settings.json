@@ -1,0 +1,9 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.wordWrapColumn": 80
+    }
+}
